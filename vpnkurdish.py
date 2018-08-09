@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# Author  : Joker-Security
+# Author  :kurdish-Security
 # hamagold - Automated VPN Connect
 # Channel ; https://www.youtube.com/c/hamagold
 # FACE Pg2: https://facebook.com/hama.linux78
